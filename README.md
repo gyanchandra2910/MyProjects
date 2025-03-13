@@ -30,4 +30,4 @@ Welcome to my portfolio! Here you'll find links to my key projects, each showcas
 Feel free to reach out if you have any questions.  
 
 📧 **Email:** chandragyan2003@gmail.com 
-🔗 **LinkedIn:** [Gyan Chandra](www.linkedin.com/in/gyanchandra29102003)  
+🔗 **LinkedIn:** [Gyan Chandra]([www.linkedin.com/in/gyanchandra29102003](https://www.linkedin.com/in/gyanchandra29102003?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
