@@ -35,7 +35,7 @@ Welcome to my portfolio! Here you'll find links to my key projects, each showcas
 
 ---
 
-### [Tic Tac Toe Game](https://github.com/IIITGYANIIIT/Tic-Tac-Toe)  
+### [Tic Tac Toe Game](https://github.com/IIITGYANIIIT/Tic-tac-Toe-game)  
 **📝 Description:**  
 - Created a **Tic Tac Toe game** using C++ with various play modes:  
    - **Player vs Player**  
