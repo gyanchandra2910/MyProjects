@@ -56,14 +56,14 @@ Welcome to my portfolio! Here you'll find links to my key projects, each showcas
 
 ---
 
-### [E-Commerce Platform](https://github.com/IIITGYANIIIT/E-Commerce-Platform) *(In Progress)*  
+### [EventEase](https://github.com/IIITGYANIIIT/EventEase) *(In Progress)*  
 **📝 Description:**  
-- Building a full-stack e-commerce platform with a focus on **performance** and **scalability**.  
-- Developing user authentication, product listing, and secure checkout features.  
+- Building a full-stack platform for booking college events with a focus on **performance** and **usability**.  
+- Developing user authentication, event listing, and booking management features.  
 - Using **modern UI components** and **RESTful APIs** for seamless interaction.  
-**🔧 Technologies:** HTML, CSS, JavaScript, Tailwind, Node.js, React.js, MySQL  
+**🔧 Technologies:** HTML, CSS, JavaScript, Tailwind, Node.js, React.js, MySQL
 
----
+---  
 
 ## 📞 Contact  
 Feel free to reach out if you have any questions or collaboration opportunities.  
