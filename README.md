@@ -31,7 +31,7 @@ Welcome to my portfolio! Here you'll find links to my key projects, each showcas
 - Developed a **recipe management system** using C++.  
 - Implemented functions to **add, update, and delete recipes** efficiently.  
 - Designed a **user-friendly interface** with structured data storage.  
-**🔧 Technologies:** C++  
+**🔧 Technologies:** C++, OOPs
 
 ---
 
