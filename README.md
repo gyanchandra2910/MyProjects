@@ -56,12 +56,7 @@ Welcome to my portfolio! Here you'll find links to my key projects, each showcas
 
 ---
 
-### [EventEase](https://github.com/IIITGYANIIIT/EventEase) *(In Progress)*  
-**📝 Description:**  
-- Building a full-stack platform for booking college events with a focus on **performance** and **usability**.  
-- Developing user authentication, event listing, and booking management features.  
-- Using **modern UI components** and **RESTful APIs** for seamless interaction.  
-**🔧 Technologies:** HTML, CSS, JavaScript, Tailwind, Node.js, React.js, MySQL
+
 
 ---  
 
