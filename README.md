@@ -50,9 +50,9 @@ Welcome to my portfolio! Here you'll find links to my key projects, each showcas
 
 ---
 
-### [❌ Tic Tac Toe Game](https://github.com/IIITGYANIIIT/Tic-tac-Toe-game)  
+### [❌ Tic Tac Toe Game](https://github.com/gyanchandra2910/Tic-Tac-Toe)  
 **📝 Description:**  
-- Developed a **modular C++ game** with Player vs Player, Player vs Computer, and AI vs AI  
+- Developed a **modular C++ game** with Player vs Player, Player vs Computer, and Computer vs Computer  
 - Used a custom header file (`tic.h`) and **randomized AI** moves  
 **🔧 Technologies:** C++  
 
